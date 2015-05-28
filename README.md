@@ -167,7 +167,7 @@ Create the Directories - One time step
 Sync the repo
 ----------------------
 
-    repo init -u https://github.com/SaberMod/toolchain_manifest -b master
+    repo init -u https://github.com/AuzOne/toolchain_manifest -b master
     repo sync
 
 Building toolchains
